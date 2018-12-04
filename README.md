@@ -25,3 +25,9 @@ _____________________________________________________________________________
 <img width="841" alt="html_css_udacity" src="https://user-images.githubusercontent.com/44728742/49380279-fb782c00-f719-11e8-87c2-2d3f11e480dd.png">
 <img width="791" alt="html_css_base" src="https://user-images.githubusercontent.com/44728742/49380289-029f3a00-f71a-11e8-851f-d83c08515b0d.png">
 I have repeated base information about web page structure and styling. I expanded my knowledge in HTML & CSS, and that will be helpful in my future studying of the web development.
+_____________________________________________________________________________
+
+## Responsive Web Design
+<img width="1436" alt="flexbox" src="https://user-images.githubusercontent.com/44728742/49473460-d6b7ad80-f81a-11e8-8d46-ddaeacb7f9bf.png">
+<img width="784" alt="responsiveweb" src="https://user-images.githubusercontent.com/44728742/49473466-d91a0780-f81a-11e8-8f97-c1bcc6a05318.png">
+I have learned about useful methodologies that helped to make a responsive and adaptive website. It's very important to understand the way you can make a great website for mobile devices. I'll use this in my future projects.

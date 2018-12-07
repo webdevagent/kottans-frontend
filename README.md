@@ -31,3 +31,8 @@ I have repeated base information about web page structure and styling. I expande
 <img width="1436" alt="flexbox" src="https://user-images.githubusercontent.com/44728742/49473460-d6b7ad80-f81a-11e8-8d46-ddaeacb7f9bf.png">
 <img width="784" alt="responsiveweb" src="https://user-images.githubusercontent.com/44728742/49473466-d91a0780-f81a-11e8-8f97-c1bcc6a05318.png">
 I have learned about useful methodologies that helped to make a responsive and adaptive website. It's very important to understand the way you can make a great website for mobile devices. I'll use this in my future projects.
+
+#### JS Basics
+<img width="541" alt="javascript_algorithms" src="https://user-images.githubusercontent.com/44728742/49619701-5d5cbe00-f9c6-11e8-8577-9025853539c1.png">
+<img width="970" alt="javascript_udacity" src="https://user-images.githubusercontent.com/44728742/49619704-5f268180-f9c6-11e8-9737-aff848f26fd6.png">
+Thank's to that course I become more confident in  JavaScript, had repeat key concepts of this programming language. Also, I really like freecodecamp challenges, they expect that you will you JS methods to solve those problems.

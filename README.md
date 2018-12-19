@@ -36,3 +36,16 @@ I have learned about useful methodologies that helped to make a responsive and a
 <img width="541" alt="javascript_algorithms" src="https://user-images.githubusercontent.com/44728742/49619701-5d5cbe00-f9c6-11e8-8577-9025853539c1.png">
 <img width="970" alt="javascript_udacity" src="https://user-images.githubusercontent.com/44728742/49619704-5f268180-f9c6-11e8-9737-aff848f26fd6.png">
 Thank's to that course I become more confident in  JavaScript, had repeat key concepts of this programming language. Also, I really like freecodecamp challenges, they expect that you will you JS methods to solve those problems.
+
+## DOM
+<img width="792" alt="dom_udacity" src="https://user-images.githubusercontent.com/44728742/50239047-bc103780-03c9-11e9-9b65-4b9cd2bf4021.png">
+<img width="682" alt="javascript_algorithms" src="https://user-images.githubusercontent.com/44728742/50239077-d4805200-03c9-11e9-9f39-d6c5cd1ec38d.png">
+It was really interesting to understand how javascript works in the browser, and how to manipulate page content with this programming language. That's very important to know how to build sings using vanilla js, without additional libraries and frameworks.
+
+Subtask 3
+
+[Code](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/webdevagent/js-dom)|[Demo](https://webdevagent.github.io/)
+Reviewed and approved by @zonzujiro
+
+It was really cool, to examine my DOM knowledge in real case. Only when you're coding you can become better as a developer. This practice task teached me how to manipulate DOM data, how to make web-app responsive and addaptive. Thank's to @zonzujiro
+i've simplified my code solution and become more confident with array methods. 

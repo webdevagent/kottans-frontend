@@ -52,7 +52,7 @@ i've simplified my code solution and become more confident with array methods.
 
 ## A Tiny JS World
 
-[Code](https://github.com/webdevagent/a-tiny-JS-world/blob/master/index.js) | [Demo] (https://webdevagent.github.io/a-tiny-JS-world/)
+[Code](https://github.com/webdevagent/a-tiny-JS-world/blob/master/index.js) | [Demo](https://webdevagent.github.io/a-tiny-JS-world/)
 Reviewed and approved by @OleksiyRudenko Great task, that is understandable for newbies in OOP and its great point of start for them, to learn by practice. Thank's to @OleksiyRudenko for my code reviewing and for useful advices about code formatting and gitHub.
 
 ## Object Oriented JS
@@ -61,9 +61,31 @@ Reviewed and approved by @OleksiyRudenko Great task, that is understandable for 
 Very useful info, about Objects, prototyping, inference. Javascript OOP a bit different than in other programming languages.  It's very comfortable to use OOP in real practical situations, so I'll use this knowledge in my future projects.
 
 # Subtask Frogger
- [Demo](https://webdevagent.github.io/frontend-nanodegree-arcade-game/) | [Code](https://github.com/webdevagent/frontend-   nanodegree-arcade-game/blob/master/js/app.js/)
+ [Demo](https://webdevagent.github.io/frontend-nanodegree-arcade-game/) | 
+ [Code](https://github.com/webdevagent/frontend-nanodegree-arcade-game/blob/master/js/app.js/)
  Reviewed and approved by @IgorKurkov
- Great challnge, when you can feel the power of OOP, in practice. Also its very interesting becouse  you have abbility to   programme game mechanics. Also thank's to @IgorKurkov, i resolved problems, related to code repeating, ununderstandable values  and font.
+ Great challenge, when you can feel the power of OOP, in practice. Also, it's very interesting because you have the ability to programme game mechanics. Also, thank's to @IgorKurkov, I resolved problems, related to code repeating, ununderstandable values and font.
 
+## OOP Exercise
+[Code](https://github.com/webdevagent/a-tiny-JS-world/blob/master/index.js) | [Demo](https://webdevagent.github.io/a-tiny-JS-world/)
+Reviewed and approved by @AMashoshyna
+Awesome challenge, after all, theoretical and practical OOP challenges, you back and fix your code with new OOP knowledge.
+Thank's to  @AMashoshyna I defined a new method in the parent class and overloaded it in child classes, so they have some individual properties, so I become to understand inherence better. 
 
+## Offline Web Applications
+<img width="786" alt="2019-01-14 16 43 52" src="https://user-images.githubusercontent.com/44728742/51119576-dfd56a80-181b-11e9-82b1-0672fa910e0f.png">
+Cool advanced info, that showed you how to make your web app work even if you are offline. A lot of interesting info about service workers and indexedDB API. Also, I planning to learn more about offline web applications and desktop(made with electron.js)
+
+## Memory Pair Game
+[Demo](https://webdevagent.github.io/memory-cat-game/) | [Code](https://github.com/webdevagent/memory-cat-game/blob/master/gameplay.js)
+
+Reviewed and approved by @zonzujiro.
+Wow, another wonderful task, that will test your javascript knowledge in practice. Very interesting and challenging task.
+Thank's to @zonzujiro I fixed these bugs related to card flipping. Also, I have been removed the redundant comments and magic numbers, and I become to use a declarative style of codding. Good advice about comparing with data-*.
+
+## Website Performance Optimization
+<img width="830" alt="2019-01-14 17 33 46" src="https://user-images.githubusercontent.com/44728742/51122740-2ed2ce00-1823-11e9-8752-ddff1dcc285e.png">
+<img width="820" alt="2019-01-14 17 35 14" src="https://user-images.githubusercontent.com/44728742/51122749-32665500-1823-11e9-823e-354d9603cdae.png">
+<img width="769" alt="2019-01-14 17 36 13" src="https://user-images.githubusercontent.com/44728742/51122753-33978200-1823-11e9-8a50-94c81767776a.png">
+Very advanced and musthave to learn section. In this section, there is a lot of useful information about site performance optimization, how Javascript works, asynchronous programming and a lot more. Of course, I will use it, I'll come back to this section many times. 
 

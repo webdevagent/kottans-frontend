@@ -42,10 +42,28 @@ Thank's to that course I become more confident in  JavaScript, had repeat key co
 <img width="682" alt="javascript_algorithms" src="https://user-images.githubusercontent.com/44728742/50239077-d4805200-03c9-11e9-9f39-d6c5cd1ec38d.png">
 It was really interesting to understand how javascript works in the browser, and how to manipulate page content with this programming language. That's very important to know how to build sings using vanilla js, without additional libraries and frameworks.
 
-Subtask 3
+# Subtask Dom
 
 [Code](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/webdevagent/js-dom)|[Demo](https://webdevagent.github.io/)
 Reviewed and approved by @zonzujiro
 
 It was really cool, to examine my DOM knowledge in real case. Only when you're coding you can become better as a developer. This practice task teached me how to manipulate DOM data, how to make web-app responsive and addaptive. Thank's to @zonzujiro
 i've simplified my code solution and become more confident with array methods. 
+
+## A Tiny JS World
+
+[Code](https://github.com/webdevagent/a-tiny-JS-world/blob/master/index.js) | [Demo] (https://webdevagent.github.io/a-tiny-JS-world/)
+Reviewed and approved by @OleksiyRudenko Great task, that is understandable for newbies in OOP and its great point of start for them, to learn by practice. Thank's to @OleksiyRudenko for my code reviewing and for useful advices about code formatting and gitHub.
+
+## Object Oriented JS
+<img width="811" alt="2019-01-14 14 57 19" src="https://user-images.githubusercontent.com/44728742/51114366-c6c5bd00-180d-11e9-8409-498daa1b6806.png">
+<img width="991" alt="2019-01-14 14 57 44" src="https://user-images.githubusercontent.com/44728742/51114368-c9281700-180d-11e9-91ff-bd70bab04c16.png">
+Very useful info, about Objects, prototyping, inference. Javascript OOP a bit different than in other programming languages.  It's very comfortable to use OOP in real practical situations, so I'll use this knowledge in my future projects.
+
+# Subtask Frogger
+ [Demo](https://webdevagent.github.io/frontend-nanodegree-arcade-game/) | [Code](https://github.com/webdevagent/frontend-   nanodegree-arcade-game/blob/master/js/app.js/)
+ Reviewed and approved by @IgorKurkov
+ Great challnge, when you can feel the power of OOP, in practice. Also its very interesting becouse  you have abbility to   programme game mechanics. Also thank's to @IgorKurkov, i resolved problems, related to code repeating, ununderstandable values  and font.
+
+
+

@@ -89,3 +89,5 @@ Thank's to @zonzujiro I fixed these bugs related to card flipping. Also, I have 
 <img width="769" alt="2019-01-14 17 36 13" src="https://user-images.githubusercontent.com/44728742/51122753-33978200-1823-11e9-8a50-94c81767776a.png">
 Very advanced and musthave to learn section. In this section, there is a lot of useful information about site performance optimization, how Javascript works, asynchronous programming and a lot more. Of course, I will use it, I'll come back to this section many times. 
 
+## Friends App
+In review
